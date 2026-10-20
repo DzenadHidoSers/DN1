@@ -1,6 +1,6 @@
 # Šolski Dogodki (SERŠ Event Hub)
 
-Spletna predstavitev skupinskega projekta: koledar šolskih dogodkov in prijave na delavnice. Stran predstavi tudi izmišljeno persono 17-letnega dijaka Luke.
+Spletna predstavitev skupinskega projekta: koledar šolskih dogodkov in prijave na delavnice. Stran predstavi tudi izmišljeno persono 17-letnega dijaka Jana Klajnoseka.
 
 ## Predogled
 
